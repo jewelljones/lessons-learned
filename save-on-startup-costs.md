@@ -1,4 +1,4 @@
-<img src = "http://strategicleanconsulting.com/wp-content/uploads/2014/02/lower-costs-im-prove-quality.jpg" align="center">
+<img src = "http://strategicleanconsulting.com/wp-content/uploads/2014/02/lower-costs-im-prove-quality.jpg" align="middle">
 
 
 One thing I learned was that there were a couple of ways to be lean (or simply save on costs) when it comes to entrepreneurial efforts while still focusing on creating value for a business:
