@@ -19,4 +19,4 @@ A key factor in launching a successful software start up, or in simply building 
   * Equipped with multiple means to debug effectively
   * Tests continuously and ruthlessly
 
-This list is not comprehensive as good developers can come in many forms. However, it is a starting guide towards ensuring your software has the best chance of success!
+This list is not comprehensive as good developers can come in many forms. However, it is a starting guide towards ensuring your software has the best chance of success! To learn more, read [The Pragmatic Programmer](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
