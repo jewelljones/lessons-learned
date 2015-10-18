@@ -1,3 +1,6 @@
+<img src = "http://strategicleanconsulting.com/wp-content/uploads/2014/02/lower-costs-im-prove-quality.jpg" align="center">
+
+
 One thing I learned was that there were a couple of ways to be lean (or simply save on costs) when it comes to entrepreneurial efforts while still focusing on creating value for a business:
 
 Websites and Mobile Apps:  Regardless of whether a business decides it needs an actual website, mobile app or both, there are off-the-shelf services such as PhoneGap and Xamarin that can help business owners reach their audiences quickly as opposed to needing to use developers for custom application development work.  For example, if a business owner wanted to sell products online, the business owner's efforts would be better served by using Shopify or Etsy to prove first that the products would be bought by customers.  The business owner as a result would also learn about the e-commerce features that would be beneficial to have for its own business after a proof-of-concept phase.  Even for a business wanting to advertise services, it may not be necessary to build a website with many webpages; this would cost more to the business owner in terms of time for maintenance.  A simple and informational one-page website could just as easily meet the business need.
