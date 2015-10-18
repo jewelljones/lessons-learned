@@ -1,6 +1,6 @@
 #Hiring a Good Developer
 
-(http://i2.wp.com/theleancoder.net/wp-content/uploads/2015/10/developer.jpg?resize=625%2C300)
+![image of developer](http://i2.wp.com/theleancoder.net/wp-content/uploads/2015/10/developer.jpg?resize=625%2C300)
 
 A key factor of launching a successful software start up or simply building a good programme is to hiring a good developer. One can identify good developers by ensuring they have some of the following traits:
 
